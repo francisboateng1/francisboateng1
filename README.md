@@ -21,7 +21,7 @@
 - Pedestrian request handling & emergency vehicle override  
 - Console-based system simulation  
 
-### 2️⃣ Career123 Structured Programming Projects
+### 2️⃣ Career Structured Programming Projects
 - Personal programming & embedded projects  
 - Systematic approach to learning & building software  
 
