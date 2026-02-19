@@ -19,9 +19,12 @@
 ### 1️⃣ Smart Pedestrian Crossing System
 - C++ FSM-based traffic control simulation  
 - Pedestrian request handling & emergency vehicle override  
-- Console-based system  
+- Console-based system simulation  
+![Normal Cycle](assets/normal-cycle.png)  
+![Pedestrian Mode](assets/pedestrian-mode.png)  
+![Emergency Override](assets/emergency-override.png)  
 
-### 2️⃣ Structured Programming Projects
+### 2️⃣ Career123 Structured Programming Projects
 - Personal programming & embedded projects  
 - Systematic approach to learning & building software  
 
